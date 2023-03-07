@@ -1,2 +1,2 @@
-# eh-zones
+# Green & Blue Zone Script By 3RROR
 A simple green/blue zone script mainly for new roleplay players to help them differentiate and understand safe zones i.e. green zone which prevents them from breaking rules.  Made this script for personal use but sharing it with you guys too &amp; new features will be added in future updates...
